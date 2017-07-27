@@ -15,6 +15,6 @@ var ArticleSchema = new Schema ({
     },
 });
 
-//mongoose adds s at end?
-var Article = mongoose.model("Article", ArticleSchema);
+//mongoose adds s at end? should model("user"??) originally Article....
+var Article = mongoose.model("user", ArticleSchema);
 module.exports = Article;

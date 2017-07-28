@@ -5,9 +5,9 @@ var Query = React.createClass({
 
     getInitialState: function(){
         return {
-            term: "Obama",
-            "start": "2010",
-            "end": "2011",
+            term: "Texas Rangers",
+            "start": "2012",
+            "end": "2013",
             "results": {}
         };
     },

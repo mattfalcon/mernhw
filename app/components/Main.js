@@ -5,7 +5,7 @@ var Main = React.createClass({
 
     getInitialState: function(){
         return {
-            results: [{"Title": "Obama is great"}, {"Title": "Obama is death"}]
+            results: [{"Title": "Cole Hamels is great"}, {"Title": "Yu Darvish is great"}]
         };
     },
 
